@@ -1,490 +1,192 @@
-# 🚀 Ultimate GitHub Profile README Prompt — Achanta Mukesh Mourya
+<div align="center">
 
-Act as an expert GitHub Profile Designer, Technical Writer, Personal Branding Specialist, and Recruiter-focused Developer Portfolio Strategist.
+# 👋 Hi, I'm Achanta Mukesh Mourya
 
-Your task is to create a modern, professional, visually impressive, recruiter-friendly GitHub Profile README.md for me.
+### 🚀 Aspiring Data Scientist & AI/ML Engineer
 
-The README should represent my actual background, skills, projects, certifications, current learning, and career direction.
+<p>
+  Building practical solutions with 
+  <b>Python</b> • <b>SQL</b> • <b>Machine Learning</b> • <b>Deep Learning</b>
+</p>
 
-Do NOT invent skills, projects, certifications, job experience, achievements, statistics, or technologies that I have not provided.
+<p>
+  <a href="https://portfolio-indol-eta-79.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-0A66C2?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/achantamukeshmourya">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/mouryaachanta">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:achantamukeshmourya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
----
-
-# 👤 My Personal Information
-
-Name: Achanta Mukesh Mourya
-
-Professional Title: Aspiring Data Scientist & AI/ML Engineer
-
-Location: Rajahmundry, Andhra Pradesh, India
-
-Education: B.Tech in Electronics and Communication Engineering (ECE)
-
-CGPA: 7.3
-
-Current Learning: Data Science & Machine Learning through Scaler
-
-Portfolio:
-https://portfolio-indol-eta-79.vercel.app/
-
-Email:
-achantamukeshmourya@gmail.com
-
-LinkedIn:
-https://www.linkedin.com/in/achantamukeshmourya
-
-GitHub:
-https://github.com/mouryaachanta
+</div>
 
 ---
 
-# 🧠 About Me
+## 👨‍💻 About Me
 
-Write a concise and professional 3–4 sentence introduction.
+🎓 **ECE Graduate** with a growing focus on **Data Science, Machine Learning, and AI/ML**.
 
-My profile should communicate that:
+📚 Currently upskilling in **Data Science & Machine Learning through Scaler**, with a strong focus on Python, SQL, Machine Learning, Deep Learning, and Data Analytics.
 
-- I am an ECE graduate transitioning toward Data Science and AI/ML.
-- I am currently strengthening my skills in Python, SQL, Machine Learning, Deep Learning, and Data Analytics.
-- I am building practical projects involving Machine Learning, Deep Learning, SQL analytics, and cloud-based AI.
-- I am interested in opportunities related to Data Science, Machine Learning, AI/ML, and analytics.
+🔬 I enjoy building practical projects that combine **data, machine learning models, deep learning architectures, and real-world problem solving**.
 
-Keep the tone confident but realistic.
+🎯 Currently exploring opportunities in **Data Science, Machine Learning, AI/ML, and Data Analytics**.
 
-Do NOT describe me as an experienced professional, senior engineer, or expert.
+📍 Rajahmundry, Andhra Pradesh, India
 
 ---
 
-# 🎯 Career Direction
+## 🎯 Career Focus
 
-My target roles include:
+```text
+Data Science       ████████████████████░  90%
+Machine Learning   ███████████████████░░  85%
+Deep Learning      ██████████████████░░░  80%
+SQL & Analytics    ███████████████████░░  85%
+AI/ML              ███████████████████░░  85%
 
-- Data Scientist
-- Machine Learning Engineer
-- AI/ML Engineer
-- Data Analyst
-- ML/Data-related entry-level roles
+Building a strong foundation in data-driven problem solving and AI/ML through continuous learning and hands-on projects.
 
-Present these as career interests rather than claiming that I already hold these roles.
+🛠️ Technical Skills
+🐍 Programming & Databases
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> </p>
+📊 Data Science & Analytics
+<p> <img src="https://img.shields.io/badge/Data%20Analysis-4B8BBE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data%20Preprocessing-5C6BC0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Statistics-6A1B9A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Time--Series%20Processing-795548?style=for-the-badge"/> </p>
+🤖 Machine Learning & Deep Learning
+<p> <img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge"/> <img src="https://img.shields.io/badge/Deep%20Learning-6A1B9A?style=for-the-badge"/> <img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Transformers-FF4081?style=for-the-badge"/> <img src="https://img.shields.io/badge/Uncertainty%20Estimation-455A64?style=for-the-badge"/> <img src="https://img.shields.io/badge/Model%20Evaluation-00897B?style=for-the-badge"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> </p>
+⚙️ Frameworks, Cloud & Tools
+<p> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white"/> </p>
+🚀 Featured Projects
+🔧 1. Predictive Maintenance using Hybrid CNN-Transformer
 
----
+Industrial Machinery Remaining Useful Life Prediction
 
-# 🛠️ Technical Skills
+📌 Overview
 
-Organize my skills into clean categories.
+A deep learning-based predictive maintenance system designed to estimate the Remaining Useful Life (RUL) of industrial turbofan engines using the NASA CMAPSS FD001 dataset.
 
-## Programming & Databases
+🧠 Key Features
+📊 Uses NASA CMAPSS FD001 turbofan engine dataset
+🔢 Works with 21 sensor features, using 14 relevant/active features
+⏱️ Captures temporal dependencies using sequence/window-based processing
+🧩 Hybrid CNN + Transformer architecture
+🔍 CNN extracts local temporal patterns
+🧠 Transformer captures long-range dependencies using self-attention
+📈 Includes ensemble/probabilistic prediction
+🎯 Provides uncertainty estimation
+🖥️ Includes a real-time prediction dashboard
+📊 Reported approximately R² = 0.93 with RMSE around 10–11
+🛠️ Tech Stack
 
-- Python
-- SQL
-- MySQL
-- Jupyter Notebook
+Python TensorFlow CNN Transformer Deep Learning Machine Learning Flask
 
-## Data Science & Analytics
+☁️ 2. IBM Cloud AI Project with Watsonx
 
-- Data Analysis
-- Data Preprocessing
-- Statistics
-- Microsoft Excel
-- Tableau
-- Time-Series Processing
+Cloud-Based AI Development Project
 
-## Machine Learning & Deep Learning
+📌 Overview
 
-- Machine Learning
-- Deep Learning
-- Convolutional Neural Networks (CNN)
-- Transformer Networks
-- Uncertainty Estimation
-- Model Evaluation
+A practical AI and cloud project completed as part of a 4-week IBM SkillsBuild internship/project, focused on exploring AI model development and cloud-based AI solutions.
 
-## Frameworks, Cloud & Tools
+🔑 Highlights
+☁️ IBM Cloud
+🤖 IBM Watsonx
+🐍 Python
+🔗 LangChain
+🧠 AI model development
+☁️ Cloud-based AI solutions
+🛠️ Practical AI implementation
+🛠️ Tech Stack
 
-- TensorFlow
-- Flask
-- React
-- Node.js
-- Git
-- GitHub
-- IBM Cloud
+Python LangChain IBM Cloud Watsonx AI
 
-Use Shields.io badges where appropriate.
+🏦 3. Citibank Analysis using SQL
 
-Do not add technologies such as Java, Django, MongoDB, AWS, Docker, Kubernetes, or other tools unless explicitly listed above.
+Banking Data Analytics & Business Insights
 
----
+📌 Overview
 
-# 🚀 Featured Projects
+A SQL-based banking analytics case study focused on extracting meaningful business insights from customer, account, transaction, branch, loan, payment, complaint, and credit-card data.
 
-Feature exactly these three projects.
+🔍 Analysis Areas
+👥 Customer activity analysis
+💳 Account and transaction analysis
+🏦 Branch performance
+💰 Loan and financial risk analysis
+📈 Transaction trends
+⚠️ Loan default analysis
+📞 Customer complaints
+💳 Credit-card analysis
+📊 Business-oriented insights
+🛠️ SQL Concepts Used
 
-## 1. Predictive Maintenance using Hybrid CNN-Transformer
+SQL Joins CTEs Subqueries Window Functions GROUP BY Aggregation CASE WHEN Date Functions
 
-GitHub Repository:
+🏆 Certifications & Learning
+🎓 Microsoft — Advanced AI and Machine Learning Techniques and Capstone
 
-https://github.com/mouryaachanta/Predictive-Maintenance-using-Hybrid-CNN-Transformer
+📅 Completed: July 6, 2025
 
-Write a strong but concise project description based on these facts:
+🔗 Verification
 
-- Predictive maintenance for industrial machinery.
-- Uses the NASA CMAPSS FD001 turbofan engine dataset.
-- Predicts Remaining Useful Life (RUL).
-- Uses 21 sensor features, with 14 active/relevant features used for modeling.
-- Captures temporal dependencies using sequence/window-based processing.
-- Hybrid architecture combines CNN and Transformer-based learning.
-- CNN extracts local patterns.
-- Transformer captures long-range temporal dependencies through self-attention.
-- Includes ensemble/probabilistic prediction and uncertainty estimation.
-- Includes a real-time prediction dashboard.
-- Reported strong model performance with approximately R² = 0.93 and RMSE around 10–11.
-- Technologies include Python, TensorFlow, CNN, Transformer, Machine Learning, Deep Learning, and Flask/dashboard components where appropriate.
+🤖 Generative AI for Beginners
 
-Do not exaggerate the performance or claim production deployment.
+📅 Completed: June 26, 2025
 
----
+🎫 Certificate Code: 8525432
 
-## 2. IBM Cloud AI Project with Watsonx
+Topics: GPT • Diffusion Models • Generative AI • AI Use Cases • AI Ethics
 
-GitHub Repository:
-
-https://github.com/mouryaachanta/IBM-CLOUD-PROJECT
-
-Description should mention:
-
-- Completed as part of a 4-week IBM SkillsBuild internship/project.
-- Worked with IBM Cloud and Watsonx.
-- Explored AI model development and cloud-based AI solutions.
-- Used technologies/frameworks such as Python, LangChain, IBM Cloud, and Watsonx.
-- Focused on practical AI/cloud implementation.
-
-Do not invent project metrics.
-
----
-
-## 3. Citibank Analysis using SQL
-
-Present this as a SQL/Data Analytics case study.
-
-Description should mention:
-
-- Banking data analysis using SQL.
-- Customer, account, transaction, branch, loan, payment, complaint, and credit-card related analysis.
-- Used SQL for business-oriented analysis.
-- Covered financial performance, loan risk, customer activity, transaction trends, branch performance, complaints, and credit-card analysis.
-- Demonstrates SQL querying, joins, aggregation, subqueries/CTEs, window functions, filtering, grouping, and business insights.
-
-Do not invent a GitHub URL if one has not been provided.
-
-If a repository link is unavailable, clearly display it as a portfolio/case-study project without fabricating a URL.
-
----
-
-# 🏆 Certifications
-
-Include these four certifications/projects:
-
-## 1. Microsoft — Advanced AI and Machine Learning Techniques and Capstone
-
-Completed: July 6, 2025
-
-Verification:
-https://lnkd.in/gSgd5Pur
-
-## 2. Generative AI for Beginners
-
-Certificate Code: 8525432
-
-Date: June 26, 2025
-
-Topics include:
-
-- Generative AI
-- GPT
-- Diffusion Models
-- AI Use Cases
-- AI Ethics
-
-## 3. Juniper Networking Virtual Internship
+🌐 Juniper Networking Virtual Internship
 
 Provided by: Eduskills
 
-## 4. IBM SkillsBuild / IBM Cloud AI Project
-
-Include the IBM SkillsBuild internship/project experience involving IBM Cloud, Watsonx, AI development, and cloud-based solutions.
-
-Do not create fake certificate links.
-
----
-
-# 📚 Currently Learning
-
-Create a clean section showing that I am currently strengthening:
-
-- Data Science
-- Machine Learning
-- Deep Learning
-- SQL
-- Python
-- Data Analytics
-- AI/ML concepts
-
-Mention Scaler — Data Science & Machine Learning naturally.
-
----
-
-# 📊 GitHub Statistics
-
-Include professional GitHub statistics using reliable services such as:
-
-- GitHub Stats
-- Top Languages
-- GitHub Streak
-
-Use the GitHub username:
-
-mouryaachanta
-
-Recommended style:
-
-- Clean cards
-- Consistent theme
-- No excessive animations
-- Good readability
-- Responsive layout
-
-Do not display fake manually written statistics.
-
----
-
-# 🔥 GitHub Profile Enhancements
-
-Include where appropriate:
-
-- GitHub contribution/streak section
-- Top languages
-- GitHub statistics
-- Profile views if reliable
-- Contribution graph
-- Clean separators
-
-Do not overcrowd the README.
-
----
-
-# 🎨 Hero Section
-
-Create an attractive hero section at the top.
-
-Include:
-
-Hi 👋, I'm Achanta Mukesh Mourya
-
-Aspiring Data Scientist & AI/ML Engineer
-
-Then add a short one-line statement such as:
-
-"Building practical solutions with Python, SQL, Machine Learning & Deep Learning."
-
-Add professional buttons/badges for:
-
-- Portfolio
-- LinkedIn
-- GitHub
-- Email
-
-Portfolio:
-
-https://portfolio-indol-eta-79.vercel.app/
-
-LinkedIn:
-
-https://www.linkedin.com/in/achantamukeshmourya
-
-GitHub:
-
-https://github.com/mouryaachanta
-
-Email:
-
-mailto:achantamukeshmourya@gmail.com
-
-Use appropriate icons where possible.
-
----
-
-# 💡 What I Focus On
-
-Create a short section around:
-
-- Data Analysis
-- Machine Learning
-- Deep Learning
-- Predictive Modeling
-- SQL Analytics
-- AI/ML Projects
-- Practical Problem Solving
-
-Keep this section concise.
-
----
-
-# 🤝 Open to Opportunities
-
-Create a professional section saying that I am open to:
-
-- Entry-level Data Science opportunities
-- Machine Learning opportunities
-- AI/ML opportunities
-- Data Analytics roles
-- Relevant internships/projects
-- Collaboration on practical AI/ML projects
-
-Do not claim that I am currently employed.
-
----
-
-# 🌐 Connect With Me
-
-Create a clean contact section containing:
-
-Portfolio:
-https://portfolio-indol-eta-79.vercel.app/
-
-LinkedIn:
-https://www.linkedin.com/in/achantamukeshmourya
-
-GitHub:
-https://github.com/mouryaachanta
-
-Email:
-achantamukeshmourya@gmail.com
-
-Use clickable icons/badges.
-
----
-
-# 🎨 DESIGN REQUIREMENTS
-
-The final README should be:
-
-- Modern
-- Professional
-- Recruiter-friendly
-- Clean
-- Visually balanced
-- Easy to scan
-- Suitable for a Data Science / AI/ML fresher
-- Professional rather than overly flashy
-
-Use:
-
-- Shields.io badges
-- Simple icons
-- GitHub stat cards
-- Streak stats
-- Top language card
-- Clean horizontal separators
-- Professional emojis
-- Consistent formatting
-- Tables only where they improve readability
-
-Avoid:
-
-- Excessive emojis
-- Huge paragraphs
-- Fake achievements
-- Fake statistics
-- Unverified technologies
-- Unnecessary buzzwords
-- Claims of senior-level expertise
-- Too many animated elements
-
----
-
-# ✨ OPTIONAL VISUAL ELEMENTS
-
-You may include a typing animation such as:
-
-Data Science | Machine Learning | Deep Learning | AI
-
-But keep animations limited and professional.
-
-You may also include:
-
-- Developer GIF/banner
-- Contribution graph
-- Profile visitor badge
-
-Only use reliable services.
-
----
-
-# 📐 README STRUCTURE
-
-Use this order:
-
-1. Hero / Introduction
-2. About Me
-3. Career Focus
-4. Technical Skills
-5. Featured Projects
-6. Certifications
-7. Currently Learning
-8. GitHub Statistics
-9. Open to Opportunities
-10. Connect With Me
-
----
-
-# 🔗 LINK RULES
-
-Use the exact URLs provided above.
-
-Do NOT:
-
-- Change my GitHub username.
-- Change my LinkedIn URL.
-- Invent portfolio URLs.
-- Invent project URLs.
-- Invent certification URLs.
-- Create fake social-media accounts.
-
-If a project does not have a public URL, simply do not add a GitHub button for that project.
-
----
-
-# 📝 CONTENT STYLE
-
-Write everything in professional English.
-
-Keep descriptions concise and impactful.
-
-Focus on:
-
-What I built → What technology I used → What problem it solves → What I learned/achieved.
-
-The README should communicate my transition from an ECE background into Data Science and AI/ML without making the transition sound negative.
-
-Make the profile suitable for recruiters reviewing an entry-level Data Science / AI/ML candidate.
-
----
-
-# 💻 FINAL OUTPUT REQUIREMENTS
-
-Output the complete content of:
-
-README.md
-
-It must be:
-
-- Fully copy-paste ready.
-- Valid Markdown.
-- Free from placeholder text.
-- Personalized specifically for Achanta Mukesh Mourya.
-- Based only on the information provided in this prompt.
-- Properly formatted.
-- Ready to paste directly into the mouryaachanta GitHub profile repository.
-
-Do not explain the README after generating it.
-
-Output only the final Markdown code.
+☁️ IBM SkillsBuild / IBM Cloud AI Project
+
+4-week learning/project experience involving:
+
+IBM Cloud Watsonx LangChain AI Development Cloud-Based AI
+
+📚 Currently Learning
+<p> <img src="https://img.shields.io/badge/Data%20Science-1E88E5?style=for-the-badge"/> <img src="https://img.shields.io/badge/Machine%20Learning-6A1B9A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Deep%20Learning-E65100?style=for-the-badge"/> <img src="https://img.shields.io/badge/SQL-1565C0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data%20Analytics-00897B?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI%2FML-4527A0?style=for-the-badge"/> </p>
+
+📖 Currently pursuing Data Science & Machine Learning through Scaler.
+
+📊 GitHub Statistics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mouryaachanta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouryaachanta&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </div>
+🔥 GitHub Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=mouryaachanta&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </div>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouryaachanta&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/> </div>
+💡 What I Focus On
+Area	Focus
+📊 Data Science	Data Analysis, Preprocessing, Statistics
+🤖 Machine Learning	Predictive Modeling, Model Evaluation
+🧠 Deep Learning	CNN, Transformers, Time-Series
+🗄️ SQL Analytics	Joins, CTEs, Subqueries, Window Functions
+☁️ AI & Cloud	IBM Cloud, Watsonx, AI Solutions
+🔬 Projects	Practical AI/ML & Data Analytics Solutions
+🤝 Open to Opportunities
+
+I am interested in exploring:
+
+💼 Entry-level Data Science opportunities
+🤖 Machine Learning opportunities
+🧠 AI/ML opportunities
+📊 Data Analytics roles
+🔬 Relevant internships and projects
+🤝 Collaboration on practical AI/ML projects
+🌐 Connect With Me
+<div align="center"> <a href="https://portfolio-indol-eta-79.vercel.app/"> <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-0A66C2?style=for-the-badge"/> </a> <a href="https://www.linkedin.com/in/achantamukeshmourya"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/mouryaachanta"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:achantamukeshmourya@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
+<div align="center">
+🚀 Building • Learning • Experimenting • Growing
+
+⭐ Feel free to explore my repositories and connect with me!
+
+</div> ```
