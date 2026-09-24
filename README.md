@@ -55,12 +55,12 @@ I enjoy building practical projects that combine **data, machine learning models
 
 ### Programming & Databases
 
-`Python` `SQL` `C` `MySQL`
+`Python`  `MySQL`
 
 ### Data Science
 
 `Pandas` `NumPy` `Matplotlib`
-`Seaborn` `Data Analysis` `Statistics`
+`Data Analysis` `Statistics`
 
 ### Machine Learning
 
