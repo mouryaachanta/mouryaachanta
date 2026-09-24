@@ -1,26 +1,23 @@
 <div align="center">
 
-# 👋 Hi, I'm Achanta Mukesh Mourya
+# Achanta Mukesh Mourya
 
-### 🚀 Aspiring Data Scientist & AI/ML Engineer
+### Data Scientist | AI/ML Engineer
 
-<p>
-  Building practical solutions with 
-  <b>Python</b> • <b>SQL</b> • <b>Machine Learning</b> • <b>Deep Learning</b>
-</p>
+**ECE Graduate · Python · SQL · Machine Learning · Deep Learning**
 
 <p>
   <a href="https://portfolio-indol-eta-79.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-0A66C2?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/achantamukeshmourya">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/mouryaachanta">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:achantamukeshmourya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -28,124 +25,171 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🎓 **ECE Graduate** with a growing focus on **Data Science, Machine Learning, and AI/ML**.
+I am an **ECE Graduate** building my career in **Data Science and AI/ML**, with a strong interest in data-driven problem solving and intelligent systems.
 
-📚 Currently upskilling in **Data Science & Machine Learning through Scaler**, with a strong focus on Python, SQL, Machine Learning, Deep Learning, and Data Analytics.
+Currently pursuing **Data Science & Machine Learning through Scaler**, while developing hands-on experience in Python, SQL, Machine Learning, Deep Learning, and Data Analytics.
 
-🔬 I enjoy building practical projects that combine **data, machine learning models, deep learning architectures, and real-world problem solving**.
+I focus on building practical projects that combine **data, machine learning models, deep learning architectures, and real-world applications**.
 
-🎯 Currently exploring opportunities in **Data Science, Machine Learning, AI/ML, and Data Analytics**.
-
-📍 Rajahmundry, Andhra Pradesh, India
+* 🎓 B.Tech — Electronics & Communication Engineering
+* 📚 Data Science & Machine Learning — Scaler
+* 💻 Python & SQL for data analysis and problem solving
+* 🤖 Machine Learning & Deep Learning
+* 🔬 Interested in Data Science, AI/ML & Data Analytics
+* 📍 Andhra Pradesh, India
 
 ---
 
-## 🎯 Career Focus
+## Technical Skills
 
-```text
-Data Science       ████████████████████░  90%
-Machine Learning   ███████████████████░░  85%
-Deep Learning      ██████████████████░░░  80%
-SQL & Analytics    ███████████████████░░  85%
-AI/ML              ███████████████████░░  85%
+**Languages & Databases**
 
-Building a strong foundation in data-driven problem solving and AI/ML through continuous learning and hands-on projects.
+`Python` `SQL` `C` `MySQL`
 
-🛠️ Technical Skills
-🐍 Programming & Databases
-📊 Data Science & Analytics
-🤖 Machine Learning & Deep Learning
-⚙️ Frameworks, Cloud & Tools
+**Data Science & Analytics**
 
-🚀 Featured Projects
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Data Analysis` `Data Preprocessing` `Statistics`
 
-🔧 1. Predictive Maintenance using Hybrid CNN-Transformer
+**Machine Learning**
 
-Industrial Machinery Remaining Useful Life Prediction
+`Scikit-learn` `Supervised Learning` `Unsupervised Learning` `Feature Engineering` `Model Evaluation`
 
-📌 Overview
+**Deep Learning & AI**
 
-A deep learning-based predictive maintenance system designed to estimate the Remaining Useful Life (RUL) of industrial turbofan engines using the NASA CMAPSS FD001 dataset.
+`TensorFlow` `Keras` `CNN` `Transformers` `Time-Series Modeling`
 
-🧠 Key Features
+**Tools & Frameworks**
 
-📊 Uses NASA CMAPSS FD001 turbofan engine dataset
-🔢 Works with 21 sensor features, using 14 relevant/active features
-⏱️ Captures temporal dependencies using sequence/window-based processing
-🧩 Hybrid CNN + Transformer architecture
-🔍 CNN extracts local temporal patterns
-🧠 Transformer captures long-range dependencies using self-attention
-📈 Includes ensemble/probabilistic prediction
-🎯 Provides uncertainty estimation
-🖥️ Includes a real-time prediction dashboard
-📊 Reported approximately R² = 0.93 with RMSE around 10–11
-🛠️ Tech Stack
+`Git` `GitHub` `Jupyter Notebook` `VS Code` `Flask` `LangChain`
 
-Python TensorFlow CNN Transformer Deep Learning Machine Learning Flask
+**Cloud & AI Platforms**
 
-☁️ 2. IBM Cloud AI Project with Watsonx
+`IBM Cloud` `IBM Watsonx`
 
-Cloud-Based AI Development Project
+---
 
-📌 Overview
+## Featured Projects
 
-A practical AI and cloud project completed as part of a 4-week IBM SkillsBuild internship/project, focused on exploring AI model development and cloud-based AI solutions.
+### 1. Predictive Maintenance using Hybrid CNN-Transformer
 
-🔑 Highlights
+**Industrial Machinery Remaining Useful Life Prediction**
 
-☁️ IBM Cloud
-🤖 IBM Watsonx
-🐍 Python
-🔗 LangChain
-🧠 AI model development
-☁️ Cloud-based AI solutions
-🛠️ Practical AI implementation
-🛠️ Tech Stack
+A deep learning-based predictive maintenance system designed to estimate the **Remaining Useful Life (RUL)** of industrial turbofan engines using the **NASA CMAPSS FD001 dataset**.
 
-Python LangChain IBM Cloud Watsonx AI
+**Highlights**
 
-🏆 Certifications & Learning
+* Hybrid **CNN + Transformer** architecture
+* 21 sensor measurements with 14 relevant features
+* Sequence/window-based temporal processing
+* CNN for local temporal feature extraction
+* Transformer self-attention for long-range dependencies
+* Ensemble/probabilistic prediction
+* Uncertainty estimation
+* Real-time prediction dashboard
+* Approximately **R² = 0.93** with RMSE around **10–11**
 
-🎓 Microsoft — Advanced AI and Machine Learning Techniques and Capstone
-📅 Completed: July 6, 2025
-🔗 Verification
+**Tech Stack**
 
-🤖 Generative AI for Beginners
-📅 Completed: June 26, 2025
-🎫 Certificate Code: 8525432
+`Python` `TensorFlow` `CNN` `Transformer` `Deep Learning` `Machine Learning` `Flask`
 
-Topics: GPT • Diffusion Models • Generative AI • AI Use Cases • AI Ethics
+**Repository:**
+https://github.com/mouryaachanta/Predictive-Maintenance-using-Hybrid-CNN-Transformer
 
-☁️ IBM SkillsBuild / IBM Cloud AI Project
-4-week learning/project experience involving:
-IBM Cloud Watsonx LangChain AI Development Cloud-Based AI
+---
 
+### 2. IBM Cloud AI Project with Watsonx
 
-📖 Currently pursuing Data Science & Machine Learning through Scaler.
+**Cloud-Based AI Development**
 
-💡 What I Focus On
-Area	Focus
-📊 Data Science	Data Analysis, Preprocessing, Statistics
-🤖 Machine Learning	Predictive Modeling, Model Evaluation
-🧠 Deep Learning	CNN, Transformers, Time-Series
-🗄️ SQL Analytics	Joins, CTEs, Subqueries, Window Functions
-☁️ AI & Cloud	IBM Cloud, Watsonx, AI Solutions
-🔬 Projects	Practical AI/ML & Data Analytics Solutions
-🤝 Open to Opportunities
+A practical AI project completed as part of a **4-week IBM SkillsBuild learning experience**, focused on AI model development and cloud-based AI solutions.
 
-I am interested in exploring:
+**Highlights**
 
-💼 Entry-level Data Science opportunities
-🤖 Machine Learning opportunities
-🧠 AI/ML opportunities
-📊 Data Analytics roles
-🔬 Relevant internships and projects
-🤝 Collaboration on practical AI/ML projects
-🌐 Connect With Me
+* IBM Cloud and Watsonx
+* AI model development
+* LangChain-based AI workflows
+* Python-based implementation
+* Cloud-based AI solutions
 
-🚀 Building • Learning • Experimenting • Growing
+**Tech Stack**
 
-⭐ Feel free to explore my repositories and connect with me!
+`Python` `LangChain` `IBM Cloud` `IBM Watsonx`
 
+**Repository:**
+https://github.com/mouryaachanta/IBM-CLOUD-PROJECT
+
+---
+
+## Education
+
+### Bachelor of Technology — Electronics & Communication Engineering
+
+**Sasi Institute of Technology & Engineering**
+
+**CGPA:** 7.3 / 10
+
+---
+
+## Certifications
+
+**Advanced AI and Machine Learning Techniques and Capstone**
+Microsoft | Coursera
+Completed: July 6, 2025
+
+**Generative AI for Beginners**
+Completed: June 26, 2025
+Certificate Code: 8525432
+
+---
+
+## Current Learning
+
+**Data Science & Machine Learning — Scaler**
+
+Currently developing skills in:
+
+`Python` · `SQL` · `Statistics` · `Data Analysis` · `Machine Learning` · `Deep Learning`
+
+---
+
+## Publication
+
+### Predictive Maintenance for Industrial Machinery using Deep Learning
+
+Research work focused on **Remaining Useful Life prediction and predictive maintenance using deep learning techniques**.
+
+📄 Publication available in the project repository.
+
+---
+
+## Areas of Interest
+
+`Data Science` · `Machine Learning` · `Deep Learning` · `Artificial Intelligence` · `Data Analytics` · `Time-Series Analysis` · `Predictive Maintenance`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mouryaachanta&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouryaachanta&layout=compact&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://portfolio-indol-eta-79.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/achantamukeshmourya">LinkedIn</a> · <a href="https://github.com/mouryaachanta">GitHub</a> · <a href="mailto:achantamukeshmourya@gmail.com">Email</a>
+
+<br><br>
+
+**Building with data · Learning continuously · Solving real-world problems**
+
+</div>
